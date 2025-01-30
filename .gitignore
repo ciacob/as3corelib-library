@@ -23,3 +23,6 @@ docs/*
 #Java Noise
 *.class
 
+
+/.vscode
+/asconfig.json
